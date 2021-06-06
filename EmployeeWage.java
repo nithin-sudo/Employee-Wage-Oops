@@ -42,7 +42,6 @@ public class EmployeeWage {
 }
 
 	public static void main(String[] args) {
-		EmployeeWage employeewage = new EmployeeWage();
-		employeewage.employeeSalaryPerMonth();
+		EmployeeWage.employeeSalaryPerMonth();
 	}
 }
